@@ -74,7 +74,7 @@ Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1bUi_k14JIQt
   --work-dir work_path
   ```
 
-The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ](https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ).
+The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ](https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ) (password: fdt1).
 
 ## Citation
 
