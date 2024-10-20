@@ -45,7 +45,7 @@ The cross-layer information separability based Feature Decoupling Transformer:
 
 ### Install
 
-Clone [https://github.com/open-mmlab/mmsegmentation](MMSegmentation) repo and add the codes of `configs`, `mmseg/datasets/aws.py` and `mmseg/models/decode_heads/fdt_head.py` into corresding files of MMSegmentation.
+Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and add the codes of `configs`, `mmseg/datasets/aws.py` and `mmseg/models/decode_heads/fdt_head.py` into corresding files of MMSegmentation.
 
 Then, run
 `pip install -v -e .`
@@ -53,7 +53,7 @@ to regist AWS16K dataset loader and FDTran model.
 
 ### Dataset
 
-Our AWS16K dataset can be found at [https://pan.baidu.com/s/1jGeIhuQjwcfvbebhG2YH9Q](AWS16K)(password: awbs), then you need to convert 255 pixels to 1 for training and testing.
+Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1jGeIhuQjwcfvbebhG2YH9Q) (password: awbs), then you need to convert 255 pixels to 1 for training and testing.
 
 ### Train and Test
 
