@@ -49,11 +49,11 @@ Clone [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) repo and ad
 
 Then, run
 `pip install -v -e .`
-to regist AWS16K dataset loader and FDTran model.
+to regist AWS16K dataset and FDTran model.
 
 ### Dataset
 
-Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1jGeIhuQjwcfvbebhG2YH9Q) (password: awbs), then you need to convert 255 pixels to 1 for training and testing.
+Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1bUi_k14JIQt2Wbemx6LLTg) (password: awbs), then you need to convert 255 pixels to 1 for training and testing.
 
 ### Train and Test
 
@@ -73,6 +73,8 @@ Our AWS16K dataset can be found at [AWS16K](https://pan.baidu.com/s/1jGeIhuQjwcf
   ckpt_path \
   --work-dir work_path
   ```
+
+The pretrained weights of FDTran (with mit_b5 as backbone) can be found at [https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ](https://pan.baidu.com/s/1Gbh0SZiswnzykhwb5z_PcQ).
 
 ## Citation
 
